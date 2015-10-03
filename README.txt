@@ -1,7 +1,3 @@
-Daniel Soheili
-301163609
-dsoheili@sfu.ca
-
 modified the shader using the following page as a reference:
 http://www.opengl-tutorial.org/beginners-tutorials/tutorial-3-matrices/#Cumulating_transformations___the_ModelViewProjection_matrix
 
